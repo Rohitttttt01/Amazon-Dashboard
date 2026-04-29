@@ -63,8 +63,7 @@ Dashboard includes slicers for:
 - Data Visualization
 
 ## 📷 Dashboard Preview
-
-![Dashboard Preview](dashboard.png)
+(https://github.com/Rohitttttt01/Amazon-Dashboard/blob/main/Amazon%20Dashboard.png)
 
 ## 🚀 Features
 ✔ Interactive Dashboard  
