@@ -56,11 +56,12 @@ Dashboard includes slicers for:
 - Sales Channel
 - Product Category
 
-## 🛠 Tools Used
-- **Power BI**
-- Data Cleaning & Transformation
-- DAX Measures
-- Data Visualization
+🛠 Tools Used
+Microsoft Excel
+Data Cleaning & Transformation
+Advanced Excel Functions
+Pivot Tables & Charts
+Data Visualization
 
 ## 📷 Dashboard Preview
 (https://github.com/Rohitttttt01/Amazon-Dashboard/blob/main/Amazon%20Dashboard.png)
