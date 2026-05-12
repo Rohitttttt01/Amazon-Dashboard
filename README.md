@@ -1,4 +1,4 @@
-# 🛒 Amazon Store Annual Report Dashboard (2022)
+# 🛒 Amazon Store Annual Report Dashboard
 
 ## 📌 Project Overview
 This project is an interactive **Amazon Store Annual Report Dashboard (2022)** built in **Power BI** to analyze sales performance, customer behavior, and order trends.
